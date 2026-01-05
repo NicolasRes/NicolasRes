@@ -4,8 +4,10 @@ A passionate programming student
 🌱 I’m learning programming in general at university while also working on my own on projects
 
 📍 Faculty of Science and Technology (Vandoeuvre-lès-Nancy)  
-📫 Contact: **resende.nicolas0@gmail.com**  
-🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas.resende)
+📫 Contact: **resende.nicolas0@gmail.com**
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas.resende)
 
 ---
 
@@ -49,9 +51,6 @@ A passionate programming student
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasRes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRes&layout=compact&theme=tokyonight)
-
-</div>
