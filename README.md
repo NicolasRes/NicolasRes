@@ -47,10 +47,3 @@ A passionate programming student
 
 ## ⭐ Featured Projects
 - **Space Invaders** — Old classic arcade-style game developed as a university project ([Repository](https://github.com/NicolasRes/SpaceInvaders))
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasRes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRes&layout=compact&theme=tokyonight)
