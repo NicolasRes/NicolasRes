@@ -7,7 +7,7 @@ A passionate programming student
 📫 Contact: **resende.nicolas0@gmail.com**
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas.resende)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nicolas.resende](https://www.linkedin.com/in/nicolas-resende-4a4311357/))
 
 ---
 
