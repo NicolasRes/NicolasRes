@@ -48,4 +48,4 @@ A passionate programming student
 ## ⭐ Featured Projects
 - **SpaceBattle** — Old classic arcade-style game inspired of Space Invaders developed as a university project ([Repository](https://github.com/NicolasRes/SpaceInvaders))
 - **Othello** — Game centered around various AIs developed as a university project ([Repository](https://github.com/NicolasRes/Othello_AI))
-- **Gestionnaire de musiciens** — App centered around collection maganement developed as a university project ([Repository](https://github.com/NicolasRes/Othello_AI))
+- **Gestionnaire de musiciens** — App centered around collection maganement developed as a university project ([Repository](https://github.com/NicolasRes/Gestionnaire_Musiciens))
